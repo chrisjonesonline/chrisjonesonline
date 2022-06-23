@@ -1,1 +1,1 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjonesonline&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chrisjonesonline&theme=vue)
